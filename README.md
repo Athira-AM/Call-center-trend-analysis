@@ -1,6 +1,7 @@
 # PWC Virtual Work Experience - Call Centre Trends
 
-## Problem Statement :
+
+## Problem Statement
 Create a dashboard in Power BI that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
 
 #### Possible KPIs include (but not limited to):
@@ -14,7 +15,7 @@ Create a dashboard in Power BI that reflects all relevant Key Performance Indica
 ## Data Preparation
 The Call Center Trends dataset, containing 10 columns and 5000 rows, was prepared in Power Query Editor within Microsoft Power BI Desktop. The aim was to ready the dataset for modeling and analysis.
 
-### Data Cleaning Steps :
+#### Data Cleaning Steps :
 
 1. #### Value Replacement :
    - The "Answered (Y/N)" column was adjusted for clarity, with "N" and "Y" values replaced with "No" and "Yes," respectively.
@@ -41,11 +42,50 @@ The Call Center Trends dataset, containing 10 columns and 5000 rows, was prepare
     
   - Average speed of answering (In sec) = `AVERAGE(Call_centre_data[Speed of answer in seconds])`
 
-## Data Visualization
-![Call center dashboard](https://github.com/Athira-AM/Call-center-trend-analysis/assets/157714268/5b7fe475-f318-47d1-8f04-a4dab7fe840d)
+## Data Visualization (Dashboard)
+| Call Centre Trends |
+| ----------- |
+|![Call center dashboard](https://github.com/Athira-AM/Call-center-trend-analysis/assets/157714268/5b7fe475-f318-47d1-8f04-a4dab7fe840d)|
 
- 
-    
+## Insights :
+
+1. **Satisfaction Rate** : Customers seem moderately satisfied, with an average rating of 3.4 out of 5. 
+
+2. **Call Handling** : More calls are being answered than unanswered, showing that the call center is doing well in managing incoming calls.
+
+3. **Agent Speed** : Joe is the quickest at answering calls, which is great for efficiency.
+
+4. **Popular Topics** : Most calls are about Streaming and Technical support, indicating areas where more attention might be needed.
+
+5. **Agent Performance** : Martha has the happiest customers, while Jim handles a lot of calls and resolves many issues.
+
+6. **Issue Resolution** : Admin support resolves more calls and more unresolved calls are in Technical support.
+
+7. **Resolution Trends** : January had the highest issue resolution rate, dipping in February but rising again in March. This shows some ups and downs in solving problems over time.
+
+
+## Recommendations based on the insights :
+
+- **Train Agents Better** : Provide more training to agents on how to handle calls effectively and make customers happier.
+
+- **Direct Calls Smarter** : Use technology to make sure calls go to the right agents quickly, reducing waiting times for customers.
+
+- **Get More Tech Help** : Since a lot of calls are about technical issues, consider hiring more tech support staff or giving extra training to current staff.
+
+- **Reward Good Work** : Give bonuses or rewards to agents who answer calls quickly, solve problems well, and keep customers satisfied.
+
+- **Give Feedback Regularly** : Have regular meetings with agents to talk about how they're doing and give tips on how to improve.
+
+- **Keep Information Handy** : Make sure agents have easy access to all the information they need to help customers quickly.
+
+- **Watch Call Trends** : Keep an eye on what kinds of calls are coming in most often, so you can fix common problems.
+
+- **Teach Everyone Everything** : Encourage agents to learn different skills so they can help with different kinds of calls.
+
+- **Ask Customers What They Think** : Get feedback from customers after calls to find out what went well and what could be better.
+
+
+
     
   
 
