@@ -10,7 +10,11 @@ Create a dashboard in Power BI that reflects all relevant Key Performance Indica
 - Overall calls answered/abandoned
 - Calls by time
 - Average speed of answer
-- Agent’s performance quadrant 
+- Agent’s performance quadrant
+
+## Data Source
+Dataset : 
+[01 Call-Center-Dataset.xlsx](https://github.com/Athira-AM/Call-center-trend-analysis/files/14064852/01.Call-Center-Dataset.xlsx)
 
 ## Data Preparation
 The Call Center Trends dataset, containing 10 columns and 5000 rows, was prepared in Power Query Editor within Microsoft Power BI Desktop. The aim was to ready the dataset for modeling and analysis.
@@ -76,11 +80,7 @@ The Call Center Trends dataset, containing 10 columns and 5000 rows, was prepare
 
 - **Give Feedback Regularly** : Have regular meetings with agents to talk about how they're doing and give tips on how to improve.
 
-- **Keep Information Handy** : Make sure agents have easy access to all the information they need to help customers quickly.
-
 - **Watch Call Trends** : Keep an eye on what kinds of calls are coming in most often, so you can fix common problems.
-
-- **Teach Everyone Everything** : Encourage agents to learn different skills so they can help with different kinds of calls.
 
 - **Ask Customers What They Think** : Get feedback from customers after calls to find out what went well and what could be better.
 
