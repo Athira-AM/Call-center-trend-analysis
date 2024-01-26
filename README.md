@@ -42,7 +42,7 @@ The Call Center Trends dataset, containing 10 columns and 5000 rows, was prepare
   - Average speed of answering (In sec) = `AVERAGE(Call_centre_data[Speed of answer in seconds])`
 
 ## Data Visualization
-
+![Call center dashboard](https://github.com/Athira-AM/Call-center-trend-analysis/assets/157714268/5b7fe475-f318-47d1-8f04-a4dab7fe840d)
 
  
     
