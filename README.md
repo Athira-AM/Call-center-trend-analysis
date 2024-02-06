@@ -49,22 +49,23 @@ The Call Center Trends dataset, containing 10 columns and 5000 rows, was prepare
 ## Data Visualization (Dashboard)
 | Call Centre Trends |
 | ----------- |
-|![Call center dashboard](https://github.com/Athira-AM/Call-center-trend-analysis/assets/157714268/5b7fe475-f318-47d1-8f04-a4dab7fe840d)|
+|![Screenshot 2024-02-06 114319](https://github.com/Athira-AM/Call-center-trend-analysis/assets/157714268/300f8f3c-9e94-4310-88ec-0ee4e6a184aa)|
+
 
 ## Insights :
 
-1. **Satisfaction Rate** : Customers seem moderately satisfied, with an average rating of 3.4 out of 5. 
-
+1. **Satisfaction Rate** : Customers seem moderately satisfied, with an average rating of 3.4 out of 5.
+    
 2. **Call Handling** : More calls are being answered than unanswered, showing that the call center is doing well in managing incoming calls.
-
-3. **Agent Speed** : Joe is the quickest at answering calls, which is great for efficiency.
-
+   
+3. **Agent Speed** : Diane is the quickest at answering calls,and she has a satisfaction rate 3.4, which is great for efficiency.
+   
 4. **Popular Topics** : Most calls are about Streaming and Technical support, indicating areas where more attention might be needed.
-
-5. **Agent Performance** : Martha has the happiest customers, while Jim handles a lot of calls and resolves many issues.
-
+   
+5. **Agent Performance** : Martha has the happiest customers, while Jim handles a lot of calls and resolves many issues,where Joe's speed of answering is very low and he has the least satisfaction rate.
+    
 6. **Issue Resolution** : Admin support resolves more calls and more unresolved calls are in Technical support.
-
+    
 7. **Resolution Trends** : January had the highest issue resolution rate, dipping in February but rising again in March. This shows some ups and downs in solving problems over time.
 
 
